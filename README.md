@@ -1,6 +1,5 @@
-# simpleChatSystem-with-GUI-in-java
-
 ## Simple chat system with GUI Using socket programming in java
+
 
 ### Steps to run :-
 1. you should run the server file firstly
